@@ -10,3 +10,6 @@
 [submodule "queue"]
 	path = queue
 	url = https://github.com/OCA/queue
+[submodule "serpentcs"]
+	path = serpentcs
+	url = https://github.com/JayVora-SerpentCS/SerpentCS_Contributions
