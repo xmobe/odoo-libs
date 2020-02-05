@@ -7,3 +7,6 @@
 [submodule "web"]
 	path = web
 	url = https://github.com/OCA/web
+[submodule "queue"]
+	path = queue
+	url = https://github.com/OCA/queue
