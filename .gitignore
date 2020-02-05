@@ -1,0 +1,4 @@
+etc/odoo-server.log
+**/**/*.pyc
+/restore
+node_modules

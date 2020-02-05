@@ -1,0 +1,3 @@
+[submodule "pos-addons"]
+	path = pos-addons
+	url = https://github.com/it-projects-llc/pos-addons
