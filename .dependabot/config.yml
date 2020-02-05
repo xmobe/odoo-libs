@@ -13,7 +13,62 @@ update_configs:
     default_reviewers:
       - "quanganh206"
   - package_manager: "submodules"
-    directory: "/"
+    directory: "/pos"
+    update_schedule: "daily"
+    target_branch: "develop"
+    default_labels:
+      - "submodules"
+    allowed_updates:
+      - match:
+          update_type: "all"
+    default_reviewers:
+      - "quanganh206"
+  - package_manager: "submodules"
+    directory: "/pos-addons"
+    update_schedule: "daily"
+    target_branch: "develop"
+    default_labels:
+      - "submodules"
+    allowed_updates:
+      - match:
+          update_type: "all"
+    default_reviewers:
+      - "quanganh206"
+  - package_manager: "submodules"
+    directory: "/queue"
+    update_schedule: "daily"
+    target_branch: "develop"
+    default_labels:
+      - "submodules"
+    allowed_updates:
+      - match:
+          update_type: "all"
+    default_reviewers:
+      - "quanganh206"
+  - package_manager: "submodules"
+    directory: "/sale-workflow"
+    update_schedule: "daily"
+    target_branch: "develop"
+    default_labels:
+      - "submodules"
+    allowed_updates:
+      - match:
+          update_type: "all"
+    default_reviewers:
+      - "quanganh206"
+  - package_manager: "submodules"
+    directory: "/serpentcs"
+    update_schedule: "daily"
+    target_branch: "develop"
+    default_labels:
+      - "submodules"
+    allowed_updates:
+      - match:
+          update_type: "all"
+    default_reviewers:
+      - "quanganh206"
+  - package_manager: "submodules"
+    directory: "/web"
     update_schedule: "daily"
     target_branch: "develop"
     default_labels:
