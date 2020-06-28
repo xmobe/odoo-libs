@@ -5,6 +5,7 @@
 [submodule "pos"]
 	path = pos
 	url = https://github.com/OCA/pos
+	branch = 12.0
 [submodule "web"]
 	path = web
 	url = https://github.com/OCA/web
