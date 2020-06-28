@@ -16,3 +16,160 @@
 [submodule "sale-workflow"]
 	path = sale-workflow
 	url = https://github.com/OCA/sale-workflow
+[submodule "edi"]
+	path = edi
+	url = https://github.com/OCA/edi
+	branch = 13.0
+[submodule "crm"]
+	path = crm
+	url = https://github.com/OCA/crm
+	branch = 13.0
+[submodule "iot"]
+	path = iot
+	url = https://github.com/OCA/iot
+	branch = 13.0
+[submodule "account-invoicing"]
+	path = account-invoicing
+	url = https://github.com/OCA/account-invoicing
+	branch = 13.0
+[submodule "server-auth"]
+	path = server-auth
+	url = https://github.com/OCA/server-auth
+	branch = 13.0
+[submodule "multi-company"]
+	path = multi-company
+	url = https://github.com/OCA/multi-company
+	branch = 13.0
+[submodule "stock-logistics-workflow"]
+	path = stock-logistics-workflow
+	url = https://github.com/OCA/stock-logistics-workflow
+	branch = 13.0
+[submodule "stock-logistics-tracking"]
+	path = stock-logistics-tracking
+	url = https://github.com/OCA/stock-logistics-tracking
+	branch = 13.0
+[submodule "stock-logistics-barcode"]
+	path = stock-logistics-barcode
+	url = https://github.com/OCA/stock-logistics-barcode
+	branch = 13.0
+[submodule "product-attribute"]
+	path = product-attribute
+	url = https://github.com/OCA/product-attribute
+	branch = 13.0
+[submodule "partner-contact"]
+	path = partner-contact
+	url = https://github.com/OCA/partner-contact
+	branch = 13.0
+[submodule "account-financial-reporting"]
+	path = account-financial-reporting
+	url = https://github.com/OCA/account-financial-reporting
+	branch = 13.0
+[submodule "e-commerce"]
+	path = e-commerce
+	url = https://github.com/OCA/e-commerce
+	branch = 13.0
+[submodule "hr"]
+	path = hr
+	url = https://github.com/OCA/hr
+	branch = 13.0
+[submodule "account-payment"]
+	path = account-payment
+	url = https://github.com/OCA/account-payment
+	branch = 13.0
+[submodule "account-invoice-reporting"]
+	path = account-invoice-reporting
+	url = https://github.com/OCA/account-invoice-reporting
+	branch = 13.0
+[submodule "server-ux"]
+	path = server-ux
+	url = https://github.com/OCA/server-ux
+	branch = 13.0
+[submodule "storage"]
+	path = storage
+	url = https://github.com/OCA/storage
+	branch = 13.0
+[submodule "bank-statement-import"]
+	path = bank-statement-import
+	url = https://github.com/OCA/bank-statement-import
+	branch = 13.0
+[submodule "purchase-workflow"]
+	path = purchase-workflow
+	url = https://github.com/OCA/purchase-workflow
+	branch = 13.0
+[submodule "reporting-engine"]
+	path = reporting-engine
+	url = https://github.com/OCA/reporting-engine
+	branch = 13.0
+[submodule "helpdesk"]
+	path = helpdesk
+	url = https://github.com/OCA/helpdesk
+	branch = 13.0
+[submodule "operating-unit"]
+	path = operating-unit
+	url = https://github.com/OCA/operating-unit
+	branch = 13.0
+[submodule "geospatial"]
+	path = geospatial
+	url = https://github.com/OCA/geospatial
+	branch = 13.0
+[submodule "contract"]
+	path = contract
+	url = https://github.com/OCA/contract
+[submodule "commission"]
+	path = commission
+	url = https://github.com/OCA/commission
+[submodule "hr-holidays"]
+	path = hr-holidays
+	url = https://github.com/OCA/hr-holidays
+	branch = 13.0
+[submodule "server-tools"]
+	path = server-tools
+	url = https://github.com/OCA/server-tools
+	branch = 13.0
+[submodule "connector-interfaces"]
+	path = connector-interfaces
+	url = https://github.com/OCA/connector-interfaces
+	branch = 13.0
+[submodule "rest-framework"]
+	path = rest-framework
+	url = https://github.com/OCA/rest-framework
+	branch = 13.0
+[submodule "server-backend"]
+	path = server-backend
+	url = https://github.com/OCA/server-backend
+	branch = 13.0
+[submodule "account-financial-tools"]
+	path = account-financial-tools
+	url = https://github.com/OCA/account-financial-tools
+	branch = 13.0
+[submodule "sale-reporting"]
+	path = sale-reporting
+	url = https://github.com/OCA/sale-reporting
+	branch = 13.0
+[submodule "stock-logistics-reporting"]
+	path = stock-logistics-reporting
+	url = https://github.com/OCA/stock-logistics-reporting
+	branch = 13.0
+[submodule "hr-expense"]
+	path = hr-expense
+	url = https://github.com/OCA/hr-expense
+	branch = 13.0
+[submodule "currency"]
+	path = currency
+	url = https://github.com/OCA/currency
+	branch = 13.0
+[submodule "product-pack"]
+	path = product-pack
+	url = https://github.com/OCA/product-pack
+[submodule "account-reconcile"]
+	path = account-reconcile
+	url = https://github.com/OCA/account-reconcile
+	branch = 13.0
+[submodule "knowledge"]
+	path = knowledge
+	url = https://github.com/OCA/knowledge
+	branch = 13.0
+[submodule "server-env"]
+	path = server-env
+	url = https://github.com/OCA/server-env
+	branch = 13.0
