@@ -5,7 +5,6 @@
 [submodule "pos"]
 	path = pos
 	url = https://github.com/OCA/pos
-	branch = 13.0
 [submodule "web"]
 	path = web
 	url = https://github.com/OCA/web
@@ -120,9 +119,11 @@
 [submodule "contract"]
 	path = contract
 	url = https://github.com/OCA/contract
+	branch = 13.0
 [submodule "commission"]
 	path = commission
 	url = https://github.com/OCA/commission
+	branch = 13.0
 [submodule "hr-holidays"]
 	path = hr-holidays
 	url = https://github.com/OCA/hr-holidays
@@ -166,6 +167,7 @@
 [submodule "product-pack"]
 	path = product-pack
 	url = https://github.com/OCA/product-pack
+	branch = 13.0
 [submodule "account-reconcile"]
 	path = account-reconcile
 	url = https://github.com/OCA/account-reconcile
