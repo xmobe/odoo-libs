@@ -181,3 +181,6 @@
 	path = server-env
 	url = https://github.com/OCA/server-env
 	branch = 13.0
+[submodule "auto_backup"]
+	path = auto_backup
+	url = https://github.com/Yenthe666/auto_backup
