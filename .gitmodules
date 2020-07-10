@@ -184,3 +184,7 @@
 [submodule "auto_backup"]
 	path = auto_backup
 	url = https://github.com/Yenthe666/auto_backup
+[submodule "connector"]
+	path = connector
+	url = https://github.com/OCA/connector
+	branch = 13.0
