@@ -192,3 +192,7 @@
 	path = runbot
 	url = https://github.com/odoo/runbot
 	branch = 13.0
+[submodule "sync-addons"]
+	path = sync-addons
+	url = https://github.com/itpp-labs/sync-addons
+	branch = 13.0
