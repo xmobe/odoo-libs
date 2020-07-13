@@ -207,3 +207,7 @@
 [submodule "chatops-docs"]
 	path = chatops-docs
 	url = https://github.com/itpp-labs/chatops-docs
+[submodule "access-addons"]
+	path = access-addons
+	url = https://github.com/itpp-labs/access-addons
+	branch = 13.0
