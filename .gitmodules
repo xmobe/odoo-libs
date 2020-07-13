@@ -204,3 +204,6 @@
 	path = iot
 	url = https://github.com/OCA/iot
 	branch = 12.0
+[submodule "chatops-docs"]
+	path = chatops-docs
+	url = https://github.com/itpp-labs/chatops-docs
