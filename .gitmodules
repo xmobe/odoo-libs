@@ -200,3 +200,7 @@
 	path = misc-addons
 	url = https://github.com/itpp-labs/misc-addons
 	branch = 13.0
+[submodule "iot"]
+	path = iot
+	url = https://github.com/OCA/iot
+	branch = 12.0
