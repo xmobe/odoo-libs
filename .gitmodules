@@ -188,7 +188,3 @@
 	path = connector
 	url = https://github.com/OCA/connector
 	branch = 13.0
-[submodule "runbot"]
-	path = runbot
-	url = https://github.com/odoo/runbot
-	branch = 13.0
