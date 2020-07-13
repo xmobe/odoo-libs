@@ -29,10 +29,6 @@
 	path = crm
 	url = https://github.com/OCA/crm
 	branch = 13.0
-[submodule "iot"]
-	path = iot
-	url = https://github.com/OCA/iot
-	branch = 13.0
 [submodule "account-invoicing"]
 	path = account-invoicing
 	url = https://github.com/OCA/account-invoicing
@@ -195,4 +191,12 @@
 [submodule "sync-addons"]
 	path = sync-addons
 	url = https://github.com/itpp-labs/sync-addons
+	branch = 13.0
+[submodule "saas-addons"]
+	path = saas-addons
+	url = https://github.com/it-projects-llc/saas-addons
+	branch = 13.0
+[submodule "misc-addons"]
+	path = misc-addons
+	url = https://github.com/itpp-labs/misc-addons
 	branch = 13.0
