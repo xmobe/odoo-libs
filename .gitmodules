@@ -215,3 +215,6 @@
 	path = website-addons
 	url = https://github.com/itpp-labs/website-addons
 	branch = 13.0
+[submodule "odoo-rest-api"]
+	path = odoo-rest-api
+	url = https://github.com/yezyilomo/odoo-rest-api
