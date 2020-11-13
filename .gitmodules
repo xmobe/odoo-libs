@@ -218,3 +218,6 @@
 [submodule "odoo-rest-api"]
 	path = odoo-rest-api
 	url = https://github.com/yezyilomo/odoo-rest-api
+[submodule "connector-telephony"]
+	path = connector-telephony
+	url = https://github.com/OCA/connector-telephony
