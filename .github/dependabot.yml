@@ -1,0 +1,24 @@
+version: 2
+updates:
+- package-ecosystem: pip
+  directory: "/"
+  schedule:
+    interval: weekly
+    time: "10:00"
+  open-pull-requests-limit: 10
+  target-branch: master
+  reviewers:
+  - quanganh206
+  labels:
+  - dependencies
+- package-ecosystem: gitsubmodule
+  directory: "/"
+  schedule:
+    interval: daily
+    time: "10:00"
+  open-pull-requests-limit: 10
+  target-branch: develop
+  reviewers:
+  - quanganh206
+  labels:
+  - submodules
